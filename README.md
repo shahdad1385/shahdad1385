@@ -250,34 +250,6 @@ The project combines financial market data with textual intelligence to establis
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahdad1385&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdad1385&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shahdad1385&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahdad1385&theme=tokyonight&row=2&column=4&margin-w=20&margin-h=20&no-frame=true"/>
-
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
@@ -296,8 +268,6 @@ The project combines financial market data with textual intelligence to establis
 
 </p>
 
-> **Note:** To enable the contribution snake animation, create a GitHub Action in your profile repository that generates the `output/github-contribution-grid-snake-dark.svg` file automatically.
-
 ---
 
 # Connect With Me
@@ -308,9 +278,6 @@ The project combines financial market data with textual intelligence to establis
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shahdad1385">
-<img src="https://img.shields.io/badge/GitHub-shahdad1385-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/shahdad-fatemi-a4a5a8417">
 <img src="https://img.shields.io/badge/LinkedIn-Shahdad_Fatemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
