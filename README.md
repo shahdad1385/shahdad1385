@@ -1,8 +1,3 @@
-<!-- ========================================================= -->
-<!--                 GITHUB PROFILE README                      -->
-<!--                     PART 1 / 4                             -->
-<!-- ========================================================= -->
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,30:6D28D9,60:7C3AED,100:8B5CF6&text=Shahdad%20Fatemi&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=AI%20Engineer%20•%20Software%20Engineer%20•%20Computer%20Science%20Student&descAlignY=60&animation=fadeIn"/>
 </p>
@@ -13,42 +8,31 @@
 
 ---
 
+<!-- Education Row -->
 <p align="center">
-
-![](https://img.shields.io/badge/University-University_of_Tehran-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Degree-B.Sc._Computer_Science-5B21B6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Focus-Artificial_Intelligence-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-Tehran,_Iran-4338CA?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/University-University_of_Tehran-6D28D9?style=for-the-badge" alt="University"/>
+  <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science-5B21B6?style=for-the-badge" alt="Degree"/>
+  <img src="https://img.shields.io/badge/Location-Tehran,_Iran-4338CA?style=for-the-badge" alt="Location"/>
 </p>
 
+<!-- Connections & CV Row -->
 <p align="center">
-
-<a href="mailto:shahdad.fatemi@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shahdad1385">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shahdad-fatemi-a4a5a8417">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="mailto:shahdad.fatemi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahdad-fatemi-a4a5a8417">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1eZJq59KSju4x2QMRu_A5l2JIYXgVhh5X/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-8B5CF6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download CV"/>
+  </a>
 </p>
 
+<!-- GitHub Stats Row -->
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=shahdad1385&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/shahdad1385?style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/stars/shahdad1385?affiliations=OWNER&style=for-the-badge&color=5B21B6)
-
+  <img src="https://komarev.com/ghpvc/?username=shahdad1385&style=for-the-badge&color=7C3AED" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/shahdad1385?style=for-the-badge&color=6D28D9" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/shahdad1385?affiliations=OWNER&style=for-the-badge&color=5B21B6" alt="Stars"/>
 </p>
 
 ---
@@ -74,23 +58,8 @@ I have hands-on experience building projects involving:
 - High Performance C++
 - Python Engineering
 
-My long-term goal is to contribute to world-class engineering teams developing cutting-edge AI systems while continuing research in deep learning and intelligent software architectures.
-
 ---
 
-## Open To
-
-- AI Engineering
-- Machine Learning Engineering
-- Software Engineering
-- Backend Engineering
-- Data Engineering
-- Research Collaborations
-- Open Source Contributions
-- Graduate Research Opportunities
-- International Internships
-
----
 
 # Tech Stack
 
@@ -281,87 +250,6 @@ The project combines financial market data with textual intelligence to establis
 
 ---
 
-# Professional Experience
-
-## AI Engineer • Independent Research
-
-**2026 — Present**
-
-Designing research-oriented Artificial Intelligence systems focusing on deep learning, biomedical signal processing, financial NLP, and scalable data engineering.
-
-### Scope of Work
-
-- Research and implement deep learning architectures.
-- Design scalable AI pipelines.
-- Build production-quality PyTorch projects.
-- Engineer automated data collection systems.
-- Develop reusable software components.
-- Optimize model training workflows.
-- Create reproducible research environments.
-
-**Skills**
-
-`PyTorch`
-`Python`
-`Machine Learning`
-`Deep Learning`
-`AI Engineering`
-`Research`
-`Data Engineering`
-
----
-
-# Education
-
-## Bachelor of Computer Science
-
-**University of Tehran**
-
-2024 — Present
-
-Relevant Interests:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Software Engineering
-- Algorithms
-- Data Structures
-- High Performance Computing
-
----
-
-# Achievements
-
-| Recognition | Details |
-|--------------|---------|
-| Medical AI Research | Developed a complete deep-learning ECG denoising pipeline. |
-| Financial AI | Designed multimodal AI infrastructure for predictive market analytics. |
-| Software Engineering | Built modular, production-oriented AI systems with scalable architecture. |
-| Continuous Learning | Focused on advanced AI engineering, machine learning, and software development. |
-
----
-
-# Certifications
-
-## Currently Pursuing
-
-![](https://img.shields.io/badge/AWS-In_Progress-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Cisco-In_Progress-5B21B6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Oracle-In_Progress-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/NPTEL-Continuous_Learning-4338CA?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-> *Profiles will be added as they become available.*
-
----
-
 # GitHub Analytics
 
 <p align="center">
@@ -412,45 +300,6 @@ Relevant Interests:
 
 ---
 
-# Current Focus
-
-```yaml
-learning:
-  - Advanced Deep Learning
-  - Large Language Models (LLMs)
-  - Reinforcement Learning
-  - Computer Vision
-  - Distributed Machine Learning
-  - Cloud-native AI Systems
-  - High Performance Computing
-
-building:
-  - Medical AI Solutions
-  - ECG Signal Denoising Models
-  - Multimodal AI Data Pipelines
-  - Financial NLP Systems
-  - Intelligent Automation Tools
-
-exploring:
-  - AI Infrastructure
-  - GPU Optimization
-  - Agentic AI Systems
-  - MLOps
-  - Distributed Training
-  - Model Compression
-  - Open Source AI
-
-open_to:
-  - Software Engineering Internships
-  - AI Engineering Roles
-  - Research Collaborations
-  - Graduate Research Opportunities
-  - Open Source Contributions
-  - International Internship Programs
-```
-
----
-
 # Connect With Me
 
 <p align="center">
@@ -469,13 +318,7 @@ open_to:
 
 </p>
 
----
 
-# Philosophy
-
-> *"Great software is engineered—not just written. Every line of code should make systems faster, smarter, and more reliable."*
-
----
 
 <p align="center">
 
